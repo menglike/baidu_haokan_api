@@ -1,5 +1,8 @@
 # baidu_haokan_api
-百度好看短视频一网打尽  需要的请联系wx:cqwanhl
+百度好看短视频一网打尽  
+
+# 需要API的请联系wx:cqwanhl
+# 个人博客:http://www.liangmlk.cn
 
 # 短视频分类： 影视 搞笑 音乐 小品 娱乐 社会 生活 猎奇 游戏 呆萌
 <br>
