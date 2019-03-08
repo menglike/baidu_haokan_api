@@ -3,7 +3,7 @@
 
 # 短视频分类： 影视 搞笑 音乐 小品 娱乐 社会 生活 猎奇 游戏 呆萌
 <br>
-![baidu_haokan_api](1.jpg)
+![baidu_haokan_api](https://github.com/menglike/baidu_haokan_api/blob/master/1.jpg)
 
 {<br>
     "0": {<br>
